@@ -1,5 +1,5 @@
 <!-- Image Feature -->
-<div>
+<!-- <div>
     <img align="center" width="1920" src="asset/video.gif" alt="Coding gif" />
 </div>
 
@@ -7,6 +7,7 @@
 <br/>
 
 <!-- Intro  -->
+<!--
 <div align="center">
     <h2>Hello, I am
         <b>Tadano Hito Hito</b>
@@ -17,7 +18,7 @@
 </div>
 
 <!-- About Section -->
-
+<!--
 # About me
 
 <div>
@@ -63,3 +64,5 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <br/>
+
+-->
